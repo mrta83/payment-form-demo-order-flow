@@ -1,2 +1,34 @@
 /target/
 /.idea/
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+/target/
+
+# Node
+node_modules/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# Misc
+*.iml
+.idea/
+
+# Ignore build artifacts
+archive-tmp/
