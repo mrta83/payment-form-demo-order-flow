@@ -45,11 +45,11 @@ public class Server {
     /**
      * Please configure your OAuth client id here.
      */
-    private static final String CLIENT_ID = "a37aac17-8546-4beb-97d3-825580f2cd7c";
+    private static final String CLIENT_ID = "";
     /**
      * Please configure your OAuth client secret here.
      */
-    private static final String CLIENT_SECRET = "D0da2Q5+PtNXxujyzcTpf4SChUpnYizmuHxUsmJi";
+    private static final String CLIENT_SECRET = "";
     private final static ZuoraClient zuoraClient = new ZuoraClient(CLIENT_ID, CLIENT_SECRET, ZuoraClient.ZuoraEnv.CSBX);
 
 
